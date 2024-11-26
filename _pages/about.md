@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher | Data Scientist 
+subtitle: Researcher | AI Enthusiast 
 
 profile:
   align: right
@@ -14,14 +14,14 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am Marzia Nouri, a passionate researcher and data scientist with a focus on Natural Language Processing (NLP) and Large Language Models (LLMs). I'm planning to pursue graduate studies, with a strong interest in contributing to the NLP community through impactful research and practical solutions.
+I am Reza Abbasi, a passionate researcher with a strong focus on Vision-Language Models, Out-of-Distribution Generalization, and Self-Supervised Learning. I am deeply interested in advancing AI through innovative research and impactful applications.
 
-I hold a Bachelor of Science in Computer Engineering from [Isfahan University of Technology](https://english.iut.ac.ir/), with a thesis on question-answering systems using machine learning.
+I am completing my Master of Science in Computer Engineering at [Sharif University of Technology (SUT)](https://www.sharif.edu/), with a perfect GPA of 4.00/4.00. My thesis focuses on self-supervised models for medical image retrieval, supervised by Dr. Mohammad Hossein Rohban. I also hold a Bachelor of Science in Computer Engineering from [Isfahan University of Technology (IUT)](https://english.iut.ac.ir/), where my thesis explored meta-heuristic methods for robot path planning.
 
-My research interests include **NLP**, **LLMs**, **interpretability**, **responsible AI**, **low-resource language technologies**, and **data mining**. I am also curious about exploring multimodal learning.
+My research interests include **vision-language models**, **bias and generalization**, **self-supervised learning**, and **medical imaging applications**. I am also curious about exploring compositional generalization in multimodal systems.
 
-I am a Research Assistant at [Qatar Computing Research Institute (QCRI)](https://www.hbku.edu.qa/en/qcri), where I organize and structure data to improve LLM comprehension. At [HyperMatrix Lab](https://hypermatrix.cs.dal.ca/), [Dalhousie University](https://www.dal.ca/), my work focuses on the interpretability and safety of NLP models. In parallel, I am working as a Data Scientist at [TapSage](https://www.tapsage.com/), focusing on AI-driven solutions such as conversational AI, retrieval-augmented generation (RAG) systems, and multi-agent frameworks. 
+I have contributed as a Research Assistant at the [Robust and Interpretable Machine Learning Lab](https://ce.sharif.edu/), where I developed advanced computer vision models and mentored undergraduate students. Additionally, at the [Machine Learning Lab at SUT](https://ce.sharif.edu/), I conducted experiments and analyses on CLIP-based vision-language systems. At [Shahid Beheshti University](https://en.sbu.ac.ir/), I collaborated on a multidisciplinary project applying self-supervised learning to medical imaging.
 
-My research contributions have been published at **[EMNLP](https://2024.emnlp.org/)**, **[COLM](https://colmweb.org/)**, and **[AACL](https://aclanthology.org/events/aacl-2023)**, focusing on interpretability of NLP models, LLM evaluation for Persian, and language technologies for under-resourced languages.
+My work has been published at prestigious venues such as **[EECV](https://eccv.ecva.net/)**, **[ECAI](https://www.ecai2024.eu/)**, and **[Journal of Endodontics](https://www.jendodon.com/)**. Key projects include histopathology retrieval using CLIP, evaluations on compositional generalization benchmarks, and object detection with YOLO and OWL-ViT.
 
-For more details, you can view my [CV](https://marzinouri.github.io/assets/pdf/MarziaNouri-CV.pdf) and explore my [Publications](https://marzinouri.github.io/publications/).
+For more details, you can view my [CV](https://github.com/abbasiReza/assets/pdf/RezaAbbasi-CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
