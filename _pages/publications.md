@@ -24,7 +24,7 @@ class: hide-title
 </div>
 
 <div class="publications">
-   {% bibliography --group_by none --query @*[keyword=journal]* %}
+   {% bibliography --group_by none --query @*[keyword=workshop]* %}
 </div>
 
 <div class="section-title">
