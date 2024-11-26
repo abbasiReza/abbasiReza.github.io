@@ -19,8 +19,8 @@ Currently pursuing a Master of Science in Computer Engineering at Sharif Univers
 
 My research encompasses several interconnected domains:
 - Vision-language models
-- Out-of-distribution generalization
 - Self-supervised learning
+- Out-of-distribution generalization
 - Medical imaging applications
 
 I am particularly intrigued by the potential of compositional generalization in multimodal systems, driving my exploration of innovative machine learning approaches.
