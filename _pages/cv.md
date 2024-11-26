@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /assets/pdf/MarziaNouri-CV.pdf
+permalink: /assets/pdf/Reza_Abbasi_CV.pdf
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: MarziaNouri-CV.pdf
+cv_pdf: Reza_Abbasi_CV.pdf
 description: 
 ---
