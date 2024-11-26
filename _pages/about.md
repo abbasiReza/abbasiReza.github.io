@@ -3,25 +3,29 @@ layout: about
 title: About
 permalink: /
 subtitle: Researcher | AI Enthusiast 
-
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+news: false
+selected_papers: false
+social: false
 ---
-I am Reza Abbasi, a passionate researcher with a strong focus on Vision-Language Models, Out-of-Distribution Generalization, and Self-Supervised Learning. I am deeply interested in advancing AI through innovative research and impactful applications.
 
-I am completing my Master of Science in Computer Engineering at [Sharif University of Technology (SUT)](https://www.sharif.edu/), with a perfect GPA of 4.00/4.00. My thesis focuses on self-supervised models for medical image retrieval, supervised by Dr. Mohammad Hossein Rohban. I also hold a Bachelor of Science in Computer Engineering from [Isfahan University of Technology (IUT)](https://english.iut.ac.ir/), where my thesis explored meta-heuristic methods for robot path planning.
+I am Reza Abbasi, a dedicated researcher passionate about pushing the boundaries of artificial intelligence through innovative research and practical applications. My academic journey and professional focus center on cutting-edge areas of machine learning, particularly vision-language models, out-of-distribution generalization, and self-supervised learning.
 
-My research interests include **vision-language models**, **Out Of Distribution Generalization**, **self-supervised learning**, and **medical imaging applications**. I am also curious about exploring compositional generalization in multimodal systems.
+Currently pursuing a Master of Science in Computer Engineering at Sharif University of Technology (SUT), I have maintained an exceptional academic record with a perfect 4.00/4.00 GPA. Under the guidance of Dr. Mohammad Hossein Rohban, my thesis explores self-supervised models for medical image retrieval, building upon my previous academic foundation at Isfahan University of Technology (IUT), where I completed my Bachelor of Science and conducted research on meta-heuristic methods for robot path planning.
 
-I have contributed as a Research Assistant at the [Robust and Interpretable Machine Learning Lab]([https://ce.sharif.edu/](https://rohban-lab.github.io/)), where I developed advanced computer vision models and mentored undergraduate students. Additionally, at the [Machine Learning Lab at SUT](http://mll.ce.sharif.edu/), I conducted experiments and analyses on CLIP-based vision-language systems. At [Shahid Beheshti University](https://en.sbu.ac.ir/), I collaborated on a multidisciplinary project applying self-supervised learning to medical imaging.
+My research encompasses several interconnected domains:
+- Vision-language models
+- Out-of-distribution generalization
+- Self-supervised learning
+- Medical imaging applications
 
-My work has been published at prestigious venues such as **[EECV](https://eccv.ecva.net/)**, **[ECAI](https://www.ecai2024.eu/)**, and **[Journal of Endodontics](https://www.jendodon.com/)**. Key projects include histopathology retrieval using CLIP, evaluations on compositional generalization benchmarks, and object detection with YOLO and OWL-ViT.
+I am particularly intrigued by the potential of compositional generalization in multimodal systems, driving my exploration of innovative machine learning approaches.
 
-For more details, you can view my [CV](https://github.com/abbasiReza/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
+Throughout my academic career, I have been actively involved in impactful research initiatives. As a Research Assistant at the Robust and Interpretable Machine Learning Lab, I developed advanced computer vision models and mentored undergraduate students. At the Machine Learning Lab at SUT, I conducted extensive experiments on CLIP-based vision-language systems. My collaborative work at Shahid Beheshti University further expanded my expertise in applying self-supervised learning techniques to medical imaging.
+
+
+For a comprehensive overview of my academic and research journey, I invite you to review my [CV](https://github.com/abbasiReza/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
