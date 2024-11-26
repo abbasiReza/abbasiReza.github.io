@@ -24,4 +24,4 @@ I have contributed as a Research Assistant at the [Robust and Interpretable Mach
 
 My work has been published at prestigious venues such as **[EECV](https://eccv.ecva.net/)**, **[ECAI](https://www.ecai2024.eu/)**, and **[Journal of Endodontics](https://www.jendodon.com/)**. Key projects include histopathology retrieval using CLIP, evaluations on compositional generalization benchmarks, and object detection with YOLO and OWL-ViT.
 
-For more details, you can view my [CV](https://github.com/abbasiReza/assets/pdf/RezaAbbasi-CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
+For more details, you can view my [CV](https://github.com/abbasiReza/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
