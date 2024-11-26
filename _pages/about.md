@@ -20,7 +20,7 @@ I am completing my Master of Science in Computer Engineering at [Sharif Universi
 
 My research interests include **vision-language models**, **Out Of Distribution Generalization**, **self-supervised learning**, and **medical imaging applications**. I am also curious about exploring compositional generalization in multimodal systems.
 
-I have contributed as a Research Assistant at the [Robust and Interpretable Machine Learning Lab](https://ce.sharif.edu/), where I developed advanced computer vision models and mentored undergraduate students. Additionally, at the [Machine Learning Lab at SUT](https://ce.sharif.edu/), I conducted experiments and analyses on CLIP-based vision-language systems. At [Shahid Beheshti University](https://en.sbu.ac.ir/), I collaborated on a multidisciplinary project applying self-supervised learning to medical imaging.
+I have contributed as a Research Assistant at the [Robust and Interpretable Machine Learning Lab]([https://ce.sharif.edu/](https://rohban-lab.github.io/)), where I developed advanced computer vision models and mentored undergraduate students. Additionally, at the [Machine Learning Lab at SUT](http://mll.ce.sharif.edu/), I conducted experiments and analyses on CLIP-based vision-language systems. At [Shahid Beheshti University](https://en.sbu.ac.ir/), I collaborated on a multidisciplinary project applying self-supervised learning to medical imaging.
 
 My work has been published at prestigious venues such as **[EECV](https://eccv.ecva.net/)**, **[ECAI](https://www.ecai2024.eu/)**, and **[Journal of Endodontics](https://www.jendodon.com/)**. Key projects include histopathology retrieval using CLIP, evaluations on compositional generalization benchmarks, and object detection with YOLO and OWL-ViT.
 
