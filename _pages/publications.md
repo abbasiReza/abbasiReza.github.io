@@ -7,8 +7,7 @@ nav: true
 nav_order: 2
 class: hide-title
 ---
-<p>The publications are grouped into two sections: conference and journal papers.
-<br> * Denotes Equal Contribution</p>
+
 
 <!-- Main Publications Section -->
 <div class="section-title">
