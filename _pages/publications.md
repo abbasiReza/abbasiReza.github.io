@@ -34,3 +34,12 @@ class: hide-title
 <div class="publications">
    {% bibliography --group_by none --query @*[keyword=journal]* %}
 </div>
+
+
+<div class="section-title">
+  Papers Under Review
+</div>
+
+<div class="publications">
+   {% bibliography --group_by none --query @*[keyword=review]* %}
+</div>
