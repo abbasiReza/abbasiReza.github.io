@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 class: hide-title
 ---
-* Denotes Equal Contribution
+<p> * Denotes Equal Contribution </p>
 
 <!-- Main Publications Section -->
 <div class="section-title">
