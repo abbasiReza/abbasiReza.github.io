@@ -1,6 +1,6 @@
 
 # Personal Webpage using al-folio Theme
-This repository hosts the personal website of _Marzia Nouri_.
+This repository hosts the personal website of _Reza Abbasi_.
 
 ## License
 
