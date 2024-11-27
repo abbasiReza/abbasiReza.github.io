@@ -28,4 +28,4 @@ I am particularly intrigued by the potential of compositional generalization in 
 Throughout my academic career, I have been actively involved in impactful research initiatives. As a Research Assistant at the [Robust and Interpretable Machine Learning Lab](https://rohban-lab.github.io/), I developed advanced computer vision models and mentored undergraduate students. At the [Machine Learning Lab at SUT](http://mll.ce.sharif.edu/), I conducted extensive experiments on CLIP-based vision-language systems. My collaborative work at [Shahid Beheshti University](https://en.sbu.ac.ir/) further expanded my expertise in applying self-supervised learning techniques to medical imaging.
 
 
-For a comprehensive overview of my academic and research journey, I invite you to review my [CV](https://abbasireza.github.io/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://github.com/abbasiReza/publications).
+For a comprehensive overview of my academic and research journey, I invite you to review my [CV](https://abbasireza.github.io/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://abbasireza.github.io/publications/).
