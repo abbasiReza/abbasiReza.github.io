@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher | AI Enthusiast 
+subtitle: Researcher | Machine Learning Enthusiast
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,19 +13,18 @@ selected_papers: false
 social: false
 ---
 
-I am Reza Abbasi, a dedicated researcher passionate about pushing the boundaries of artificial intelligence through innovative research and practical applications. My academic journey and professional focus center on cutting-edge areas of machine learning, particularly vision-language models, out-of-distribution generalization, and self-supervised learning.
+I am Reza Abbasi, a dedicated researcher passionate about advancing machine learning through innovative research and real-world applications. My academic and professional experiences focus on areas such as vision-language modeling, out-of-distribution generalization, and self-supervised learning.
 
-Currently pursuing a Master of Science in Computer Engineering at [Sharif University of Technology](https://en.sharif.ir/), I have maintained an exceptional academic record with a perfect 4.00/4.00 GPA. Under the guidance of [Dr. Mohammad Hossein Rohban](https://sharif.ir/~rohban/), my thesis explores self-supervised models for medical image retrieval, building upon my previous academic foundation at [Isfahan University of Technology](https://english.iut.ac.ir/), where I completed my Bachelor of Science and conducted research on meta-heuristic methods for robot path planning.
+I recently completed my Master of Science in Computer Engineering at [Sharif University of Technology](https://en.sharif.ir/), graduating with a perfect 4.00/4.00 GPA. My thesis, supervised by [Dr. Mohammad Hossein Rohban](https://sharif.ir/~rohban/), explored self-supervised models for medical image retrieval. I hold a Bachelor of Science from [Isfahan University of Technology](https://english.iut.ac.ir/), where I worked on meta-heuristic methods for path planning.
 
-My research encompasses several interconnected domains:
-- Vision-language models
-- Self-supervised learning
-- Out-of-distribution generalization
+My research interests include:
+- Vision-language models  
+- Self-supervised learning  
+- Out-of-distribution generalization  
 - Medical imaging applications
 
-I am particularly intrigued by the potential of compositional generalization in multimodal systems, driving my exploration of innovative machine learning approaches.
+I am especially interested in compositional generalization and how it can enhance the robustness and interpretability of multimodal systems.
 
-Throughout my academic career, I have been actively involved in impactful research initiatives. As a Research Assistant at the [Robust and Interpretable Machine Learning Lab](https://rohban-lab.github.io/), I developed advanced computer vision models and mentored undergraduate students. At the [Machine Learning Lab at SUT](http://mll.ce.sharif.edu/), I conducted extensive experiments on CLIP-based vision-language systems. My collaborative work at [Shahid Beheshti University](https://en.sbu.ac.ir/) further expanded my expertise in applying self-supervised learning techniques to medical imaging.
+I have contributed to several collaborative research efforts. As a Research Assistant at the [Robust and Interpretable Machine Learning Lab](https://rohban-lab.github.io/), I worked on advanced computer vision systems and mentored junior researchers. At the [Machine Learning Lab at SUT](http://mll.ce.sharif.edu/), I conducted extensive studies on contrastive and CLIP-based models for visual and textual understanding.
 
-
-For a comprehensive overview of my academic and research journey, I invite you to review my [CV](https://abbasireza.github.io/assets/pdf/Reza_Abbasi_CV.pdf) and explore my [Publications](https://abbasireza.github.io/publications/).
+For a comprehensive overview of my academic background and publications, please refer to my [CV](https://abbasireza.github.io/assets/pdf/Reza_Abbasi_CV.pdf) and [Publications](https://abbasireza.github.io/publications/).
